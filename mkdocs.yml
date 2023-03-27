@@ -28,7 +28,7 @@ site_description: >-
 
 # Repository
 repo_name: squidfunk/mkdocs-material
-repo_url: https://osofisico.github.io/mkdocs-material/
+repo_url: https://osofisico.github.io/mkdocs-material
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2023 Martin Donath
